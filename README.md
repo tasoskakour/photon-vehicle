@@ -21,4 +21,4 @@ And finally you're going to need a tool like Atmel Studio to compile and produce
 
 ### Vehicle Close-up
 
-<img src="vehicle.png">
+<img width="450" height="auto" src="vehicle.png">
